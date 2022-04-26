@@ -16,3 +16,5 @@
 
 ### Plugin Used: Lean Touch
 #### download plugin from: https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111
+
+### Note: App Works only for Android 
