@@ -15,4 +15,4 @@
 
 
 ### Plugin Used: Lean Touch
-#### download from: https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111
+#### download plugin from: https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111
